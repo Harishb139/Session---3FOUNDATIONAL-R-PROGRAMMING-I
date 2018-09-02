@@ -1,0 +1,11 @@
+Session 3 – Introduction to working with R
+Assignment – 1
+
+1.   Not Discussed.
+2.  We have to click Import Dataset in and then click From SAS.
+> library(haven)
+> dataset <- read_sas()
+
+3.  Not Discussed.
+4.  read.csv(file, header = TRUE, sep = ",", quote = "\"",dec = ".", fill = TRUE, comment.char = "", ...)
+ 
